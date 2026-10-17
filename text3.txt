@@ -1,1 +1,0 @@
-this is a text file and it is made to practice git 
